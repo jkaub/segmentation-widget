@@ -1,6 +1,6 @@
 # segmentation-widget
 
-![Demo Gif](https://imgur.com/ScPk68j.gif)
+![Demo Gif](https://imgur.com/UYcb6yt.gif)
 
 # SegmentWidget
 A widget for image segmentation. Allows the user to segment an image by creating a polygon on the image and generating a binary mask. User can navigate through a set of images and masks and create a binary mask for each one. The class displays the original image and the corresponding mask in a plotly figure widget.

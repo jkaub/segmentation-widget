@@ -1,0 +1,5 @@
+skimage
+ipywidgets
+plotly
+numpy
+os
